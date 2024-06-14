@@ -1,3 +1,14 @@
+// setInterval(()=>{
+//     let imgs = document.querySelectorAll('img')
+//     imgs.forEach((a, i)=>{
+//         a.src = 'https://i.namu.wiki/i/_0oSGBsKqA5SStbvIRX8axKnSDEoOBnhghKOb3uJRgffUkJNi-h6x6WtzbfHHSpo6uEmg1ZDGoMvTSrPXRKHyg.webp'
+//     })
+//     let videos = document.querySelectorAll('video')
+//     videos.forEach((a, i)=>{
+//         a.src = 'https://youtu.be/dQw4w9WgXcQ'    
+//     })  
+// }, 500)
+
 setInterval(() => {
     // 이미지 변경
     let imgs = document.querySelectorAll('img');
